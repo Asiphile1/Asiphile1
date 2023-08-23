@@ -2,7 +2,7 @@
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to collaborate on starter projects
-- 📫 How to reach me here Email: ASIPHILEMTHETHWA@GMAIL.COM  WhatsApp: +27 71 568 6151
+- 📫 How to reach me Email: ASIPHILEMTHETHWA@GMAIL.COM  WhatsApp: +27 71 568 6151
 
 <!---
 Asiphile1/Asiphile1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
